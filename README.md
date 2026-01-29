@@ -1,4 +1,4 @@
-# Glimpse 🌸
+# Glimpse 
 
 A face search tool that finds a person in video footage. Upload a reference photo and a video — Glimpse scans through and shows you every scene where that face appears.
 
